@@ -13,7 +13,7 @@
 <h2 align="center">Hi! My name is Suyash . 👋</h2>
 
 <p align="center">I'm a Graduate Student at San Jose State University pursuing my Masters degree in Software Engineering and will be graduating Dec 2020.
-I am interested and passionate about Full Stack/Frontend Web Development. I have developed multiple Full Stack Web applications independently and in team. I also have 3 years of work experience as a Full Stack Web Developer with the Aspiring MInds(SHL).</p>
+I am interested and passionate about Full Stack/Backend Web Development. I have developed multiple Full Stack Web applications independently and in team. I also have 3 years of work experience as a Full Stack Web Developer with the Aspiring MInds(SHL).</p>
 
 <p align="left">
   
