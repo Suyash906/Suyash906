@@ -39,7 +39,14 @@ I am interested and passionate about Full Stack/Backend Web Development. I have 
  
 </p>
 
-![Suyash's Github Stats](https://github-readme-stats.vercel.app/api?username=Suyash906&show_icons=true&theme=radical)
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/Suyash906/Suyash906" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Suyash906&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+  </a>
+
+  <a href="https://github.com/Suyash906/Suyash906" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Suyash906&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Suyash's GitHub Stats" height="180px"/>
+  </a>
 
 <!--
 **Suyash906/Suyash906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
